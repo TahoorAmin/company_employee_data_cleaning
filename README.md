@@ -25,21 +25,6 @@ The main objective of this project is to:
 - CSV
 - 
 📂 Dataset:
-
-The dataset contains company employee information, including fields such as:
-- Employee ID
-- Employee Name
-- Department
-- Job Title
-- Age
-- Gender
-- Annual Salary
-- Experience Years
-- Joining Date
-- City
-- Performance Score
-- Work Mode
-
 The original dataset contains several data quality issues that need to be addressed before further analysis.
 
 🔍 Data Cleaning Process:
